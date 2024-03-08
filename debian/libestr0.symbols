@@ -1,4 +1,5 @@
 libestr.so.0 libestr0 #MINVER#
+* Build-Depends-Package: libestr-dev
  es_addBuf@Base 0.1.0
  es_addChar@Base 0.1.0
  es_deleteStr@Base 0.1.0
