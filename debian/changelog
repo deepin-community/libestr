@@ -1,3 +1,9 @@
+libestr (0.1.11-2) unstable; urgency=medium
+
+  * Rebuild with LTO enabled (dpkg vendor feature optimize/lto).
+
+ -- tunaichao <tunaichao@uniontech.com>  Fri, 11 Sep 2026 15:54:27 +0800
+
 libestr (0.1.11-1) unstable; urgency=medium
 
   * New maintainer (Closes: #1010434)
